@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). 
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## The challenge
@@ -19,7 +19,7 @@ Your users should:
 
 ### Links
 
-- Solution URL: https://github.com/gudhi987/Four-Card-Feature-Section/tree/master
+- Solution URL: https://github.com/gudhi987/Recipe-Page
 - Live Site URL: https://65c856e45289eee2a9113568--serene-alfajores-ce2df7.netlify.app/
 
 ## My process
@@ -38,3 +38,8 @@ Your users should:
 
 During the time of building this project, I revised the basic html tags and css styles and 
 become more familiar with css-grid, css-flexbox, media queries and others.
+
+
+### Resources
+
+You can find resources in assets and design folders.
