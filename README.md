@@ -20,7 +20,7 @@ Your users should:
 ### Links
 
 - Solution URL: https://github.com/gudhi987/Recipe-Page
-- Live Site URL: https://serene-alfajores-ce2df7.netlify.app/
+- Live Site URL: https://recipe-page-jagadeesh.netlify.app
 
 ## My process
 
